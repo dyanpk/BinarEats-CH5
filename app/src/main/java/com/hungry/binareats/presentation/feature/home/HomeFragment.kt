@@ -1,4 +1,4 @@
-package com.hungry.binareats.ui.home
+package com.hungry.binareats.presentation.feature.home
 
 import android.os.Bundle
 import android.view.LayoutInflater
